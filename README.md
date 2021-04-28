@@ -1,2 +1,2 @@
-# Calculando porcentagem:
- Meu primeiro repositorio 
+# Calculando Descontos:
+ Meu primeiro repositorio em python
