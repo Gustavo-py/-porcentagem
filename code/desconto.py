@@ -37,4 +37,4 @@ while True:
             print(f'Deu um total de R${resultado:.2f} Obrigado pela preferencia volte sempre.')
         break
     else:
-        print('COMANDO INVALIDO.. POR FAVOR DIGITE UM NUMERO VALIDO')
+        print('COMANDO INVALIDO... POR FAVOR DIGITE UM NUMERO VALIDO')
